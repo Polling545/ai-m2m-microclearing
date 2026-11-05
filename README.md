@@ -1,6 +1,7 @@
 
 ai-m2m-microclearing
 Autonomous Machine-to-Machine (M2M) micro-payment and cryptographic settlement protocol for AI agents.
+
 专属于 AI 智能体的高频微支付与密码学自治清算协议。
 核心愿景 / Vision
 中文：
