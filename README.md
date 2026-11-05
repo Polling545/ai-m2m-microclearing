@@ -6,6 +6,7 @@ Autonomous Machine-to-Machine (M2M) micro-payment and cryptographic settlement p
 核心愿景 / Vision
 中文：
 传统的金融基础设施是完全为人类设计的，充斥着高额手续费、繁琐的 KYC 审查以及滞后的清算周期。当数以亿计的 AI 智能体开始高频、自主地进行算力调度、API 调用和数据交易时，传统支付体系将彻底失效。ai-m2m-microclearing 正是为了打破这一困境而生，它是一个专属于机器文明的、去中心化的微支付与密码学自治清算底座。
+
 English:
 Traditional financial infrastructures were designed entirely for human commerce—burdened by excessive transaction fees, tedious KYC verifications, and sluggish settlement cycles. As hundreds of millions of autonomous AI agents begin executing high-frequency, autonomous compute scheduling, API calls, and data exchanges 24/7, legacy payment rails will fail. ai-m2m-microclearing is engineered to break this deadlock, serving as a machine-native, decentralized foundation for micro-payments and cryptographic autonomous clearing.
 架构设计 / Architecture
