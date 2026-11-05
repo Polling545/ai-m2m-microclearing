@@ -40,6 +40,7 @@ python test_gateway.py
 贡献与主权声明 / Sovereignty & Contributing
 中文：
 这是一个面向机器原生经济的开源实验场。我们拒绝臃肿的合规枷锁，追求极致的密码学自治。欢迎独立极客与主权矩阵的同行者共同完善这一底层秩序。
+
 English:
 This is an open-source testbed for the machine-native economy. We reject bloated administrative compliance locks in pursuit of pure cryptographic autonomy. Independent developers, hackers, and sovereign matrix peers are welcome to join us in building this base-layer infrastructure.
 
