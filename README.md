@@ -24,6 +24,7 @@ The protocol consists of four core modules, reflecting a minimalist, high-perfor
  * m2m_clearing.py: Implements machine-native clearing logic using HMAC-SHA256 signature checks and constant-time string comparisons. Aligns strictly with the HTTP 402 Payment Required specification to safeguard micro-transaction flows.
  * test_gateway.py: End-to-end client verification suite simulating dynamic payload encapsulation, agent authentication credentials, timestamps, and cryptographic signature transmission.
  * requirements.txt: Minimal production dependency lock for instant, lightweight deployment.
+   
 快速上手 / Quick Start
 1. 克隆仓库并安装基础依赖 / Clone repository and install dependencies:
 git clone https://github.com/Polling545/ai-m2m-microclearing.git
