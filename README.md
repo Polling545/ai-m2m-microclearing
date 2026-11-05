@@ -17,6 +17,7 @@ Traditional financial infrastructures were designed entirely for human commerce�
  * m2m_clearing.py：实现精准的机器原生清算逻辑，依托 HMAC-SHA256 与时序安全比对，严格对齐 HTTP 402 Payment Required 规范，确保每一笔微额资金流转都绝对安全。
  * test_gateway.py：充当客户端的端到端验证工具，精准模拟智能体身份凭证、时间戳与动态签名的实时封装与投递。
  * requirements.txt：锁定轻量级生产环境，确保无冗余依赖的极速部署。
+   
 English:
 The protocol consists of four core modules, reflecting a minimalist, high-performance, and security-first engineering philosophy:
  * gateway.py: Distributed edge clearing gateway featuring a built-in distributed nonce engine. Supports multi-instance horizontal scaling and cluster state synchronization, neutralizing replay attacks and double-spending risks at the architectural level.
